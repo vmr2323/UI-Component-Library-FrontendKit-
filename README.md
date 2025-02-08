@@ -34,6 +34,6 @@ npm run storybook
 npm run dev  
 ```
 📡 Future Improvements
-✅ Add Material Design support
-✅ Implement animations and custom components
-✅ Enhance documentation
+- ✅ Add Material Design support
+- ✅ Implement animations and custom components
+- ✅ Enhance documentation
