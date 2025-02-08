@@ -19,18 +19,4 @@
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/your-username/FrontendKit.git  
-cd FrontendKit  
-
-2️⃣ Install Dependencies
-npm install  
-
-3️⃣ Run Storybook
-npm run storybook  
-
-4️⃣ Run the Development Server
-npm run dev
-
-📡 Future Improvements
-✅ Add Material Design support
-✅ Implement animations and custom components
-✅ Enhance documentation
+cd FrontendKit
